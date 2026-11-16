@@ -14,9 +14,9 @@ Malaria is a life-threatening disease. Manual microscopic diagnosis is time-cons
 - **Framework:** TensorFlow / Keras
 - **Architecture:** A 3-layer CNN with Max Pooling, followed by Dense layers.
 - **Dataset:** NIH Malaria Cell Images (via Kaggle) - 27,560 images.
+<img width="730" height="838" alt="Screenshot 2026-11-16 223515" src="https://github.com/user-attachments/assets/97f06f8d-2fcc-4966-ac24-6aed76dbb943" />
+<img width="1560" height="692" alt="Screenshot 2026-11-16 223456" src="https://github.com/user-attachments/assets/7268d746-b4d4-4880-884e-2cc2e1d348e1" />
 
-##<img width="1172" height="508" alt="Screenshot 2026-11-16 214831" src="https://github.com/user-attachments/assets/cdb8693a-1094-4934-be14-ecd6bf8bf7b7" />
-<img width="702" height="822" alt="Screenshot 2026-11-16 214821" src="https://github.com/user-attachments/assets/583070f3-44d6-4835-9d04-232545cbc25b" />
 ## How to Run
 1. Open the `.ipynb` file in Google Colab.
 2. Run all cells. The dataset will download automatically via `kagglehub`.
