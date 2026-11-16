@@ -17,6 +17,6 @@ Malaria is a life-threatening disease. Manual microscopic diagnosis is time-cons
 
 ##<img width="1172" height="508" alt="Screenshot 2026-11-16 214831" src="https://github.com/user-attachments/assets/cdb8693a-1094-4934-be14-ecd6bf8bf7b7" />
 <img width="702" height="822" alt="Screenshot 2026-11-16 214821" src="https://github.com/user-attachments/assets/583070f3-44d6-4835-9d04-232545cbc25b" />
- How to Run
+## How to Run
 1. Open the `.ipynb` file in Google Colab.
 2. Run all cells. The dataset will download automatically via `kagglehub`.
