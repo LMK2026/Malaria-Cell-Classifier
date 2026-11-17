@@ -16,7 +16,7 @@ It classifies the cells as either **Parasitized (Infected)** or **Uninfected (He
 # Load the model (cached to improve performance)
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model("malaria_classifier.keras")
+    return tf.keras.models.load_model("malariaclassifier.keras", compile=False)
 
 model = load_model()
 
