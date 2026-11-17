@@ -1,4 +1,4 @@
- # Malaria Cell Classifier (AI in Medical Imaging)
+# Malaria Cell Classifier (AI in Medical Imaging)
 
 A Convolutional Neural Network (CNN) built with TensorFlow/Keras to classify red blood cell images as **Parasitized (infected)** or **Uninfected**, aiding in rapid malaria screening.
 
