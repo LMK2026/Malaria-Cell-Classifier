@@ -20,3 +20,6 @@ Malaria is a life-threatening disease. Manual microscopic diagnosis is time-cons
 ## How to Run
 1. Open the `.ipynb` file in Google Colab.
 2. Run all cells. The dataset will download automatically via `kagglehub`.
+
+## Live Demo App
+https://malaria-cell-classifier-lmk.streamlit.app/
